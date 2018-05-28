@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Gangame</string>
+    <string name="title_top_rated">Top Rated</string>
+    <string name="title_most_owned">Most Owned</string>
+    <string name="title_deals">Deals</string>
+    <string name="label_ratings">Ratings</string>
+    <string name="label_deal_price">Deal Price</string>
+    <string name="label_original">Original</string>
+    <string name="tools_text_title">Silence of the sleep</string>
+
+    <string name="error_deals_request">Ocurrió un error al intentar obtener las ofertas </string>
+    <string name="error_games_request">Ocurrió un error al intentar obtener el listado de juegos </string>
+    <string name="message_retry_request">Reintentar</string>
 </resources>
